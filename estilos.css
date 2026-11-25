@@ -49,7 +49,7 @@ footer span {
 .menu {
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 25px;
 }
 
 .menu a {
